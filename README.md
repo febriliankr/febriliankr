@@ -4,6 +4,8 @@
 - 🌱 Currently learning GraphQL and Gatsby
 - ✍ I write on [febrilian.com](https://febrilian.com)
 
+## My Stats 💻
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=febriliankr&show_icons=true&theme=tokyonight)
 
 <!--
