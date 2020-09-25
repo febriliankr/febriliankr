@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there 👋 Febrilian here
+
+- 🔭 I’m currently working on JAM Stack projects and Gatsby
 
 <!--
 **febriliankr/febriliankr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
