@@ -1,6 +1,6 @@
 ## Hello there 👋 Febrilian here
 
-- 🔭 I’m currently working on JAM Stack projects and Gatsby
+- 🔭 I’m currently working on JAM Stack projects and Next.js
 - 🌱 Currently learning GraphQL and Gatsby
 - ✍ I write on [febrilian.com](https://febrilian.com)
 
