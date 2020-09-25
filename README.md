@@ -4,6 +4,8 @@
 - 🌱 Currently learning GraphQL and Gatsby
 - ✍ I write on [febrilian.com](https://febrilian.com)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=febriliankr&show_icons=true&theme=tokyonight)
+
 <!--
 **febriliankr/febriliankr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
