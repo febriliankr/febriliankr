@@ -1,7 +1,7 @@
 ## Hello there 👋 Febrilian here
 
 - 🔭 I’m currently working on JAM Stack projects and Next.js
-- 🌱 Currently learning GraphQL & Typescript 🟦
+- 🌱 Currently learning GraphQL & Go language
 - ✍ I write on [febrilian.com](https://febrilian.com)
 
 ## My Stats 💻
