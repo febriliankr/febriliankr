@@ -1,6 +1,6 @@
 ## Hello there 👋 Febrilian here
 
-- 🔭 I’m currently working on nextgen.risetku.com
+- 🔭 I’m currently working on [nextgen.risetku.com](https://nextgen.risetku.com) and [cepat.co](https://cepat.co)
 - 🌱 Currently learning GraphQL 
 - ✍ I write on [febrilian.com](https://febrilian.com)
 - 🚀 Languages: Typescript & Go
