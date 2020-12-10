@@ -1,10 +1,8 @@
 ## Hello there 👋 Febrilian here
 
 - 🔭 I’m currently working on [nextgen.risetku.com](https://nextgen.risetku.com) and [cepat.co](https://cepat.co)
-- 🌱 Currently learning GraphQL 
-- ✍ I write on [febrilian.com](https://febrilian.com)
-- 🚀 Languages: Typescript & Go
-- 🏗 Frameworks: Next.js, Express (Node.js), Fiber (Go)
+- 🌱 Prioritizing in shipping and hacking.
+- 🚀 Typescript & Go | Next.js (React), Express (Node.js), Fiber (Go)
 
 ## My Stats 💻
 
