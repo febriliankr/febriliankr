@@ -6,6 +6,8 @@
 - Others: GraphQL, Gatsby, React Native, Firebase, MySQL, PostgreSQL
 - Open for freelance job contact me through febrilian.kr@gmail.com
 
+## My Tutorials
+- https://febriliankr.medium.com/cara-data-mining-dari-twitter-dengan-r-language-e7fb937da21f
 
 ## My Stats 💻
 
