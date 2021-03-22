@@ -1,6 +1,6 @@
 ## Hello there 👋 Febrilian here
 
-- 🔭 I’m currently working on [nextgen.risetku.com](https://nextgen.risetku.com), [cepat.co](https://cepat.co) and multiple freelancing projects.
+- 🔭 I’m currently working on [risetku.com](https://risetku.com), [cepat.co](https://cepat.co) and Dorsian Software Studio.
 - 🌱 Prioritizing in shipping and hacking.
 - 🚀 Typescript & Go | Next.js (React), Express (Node.js), Fiber (Go)
 - Others: GraphQL, Gatsby, React Native, Firebase, MySQL, PostgreSQL
