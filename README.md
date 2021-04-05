@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on [risetku.com](https://risetku.com), [cepat.co](https://cepat.co) and Dorsian Software Studio.
 - 🌱 Prioritizing in shipping and hacking.
-- 🚀 Typescript & Go | Next.js (React), Express (Node.js), Fiber (Go)
-- Others: GraphQL, Gatsby, React Native, Firebase, MySQL, PostgreSQL
+- 🚀 Typescript & Go & Dart | Next.js (React), Express (Node.js), Fiber (Go), Flutter (Dart)
+- Others: GraphQL, Gatsby, Firebase, MySQL, PostgreSQL
 - Open for freelance job contact me through febrilian.kr@gmail.com
 
 ## My Tutorials
