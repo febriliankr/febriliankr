@@ -1,6 +1,6 @@
 ## Hello there 👋 Febrilian here
 
-- 🔭 I’m currently working on [Skala](https://skala.co.id)(Software Development Agency) [risetku.com](https://risetku.com), [cepat.co](https://cepat.co).
+- 🔭 I’m currently working on [Skala](https://skala.co.id) (Software Development Agency) [risetku.com](https://risetku.com), [cepat.co](https://cepat.co).
 - 🌱 Prioritizing in shipping and hacking.
 - 🚀 Typescript & Go | Next.js (React), Express (Node.js), Fiber (Go)
 - My portfolio is on https://febrilian.com/about
