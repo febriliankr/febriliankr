@@ -1,8 +1,8 @@
 ## Hello there 👋 Febrilian here
 
-- 🔭 Currently working on [Skala](https://skala.co.id), [risetku.com](https://risetku.com), and [cepat.co](https://cepat.co).
+- 🔭 Currently working on [Skala](https://skala.co.id) and [Risetku](https://risetku.com).
 - 🌱 Prioritizing in shipping and building.
-- 🚀 Typescript & Go
+- 🚀 Golang & Typescript
 - Open for freelance job contact me through febrilian.kr@gmail.com
 
 ## My Tutorials
