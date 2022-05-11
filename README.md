@@ -4,6 +4,7 @@
 - 🔭 Currently working on [Skala](https://skala.co.id) and [Risetku](https://risetku.com).
 - Open for freelance job contact me through febrilian.kr@gmail.com
 - Resume https://febrilian.com/resume
+- https://open.kattis.com/users/febrilian
 
 ## My Tutorials
 - [How to Brute Force with Golang](https://febriliankr.medium.com/how-to-brute-force-with-go-golang-277131e8a163)
