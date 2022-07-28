@@ -1,6 +1,6 @@
 ## Hello there 👋 Febrilian here
 
-- 🚀 Golang & Typescript
+- 🚀 Go & Typescript
 - 🔭 Currently working on [Skala](https://skala.co.id) and [Risetku](https://risetku.com).
 - Open for freelance job contact me through febrilian.kr@gmail.com
 - Resume https://febrilian.com/resume
