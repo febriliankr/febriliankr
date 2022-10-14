@@ -8,8 +8,10 @@
 
 ## My Tutorials
 
-- [How to Brute Force with Golang](https://febriliankr.medium.com/how-to-brute-force-with-go-golang-277131e8a163)
+- [Benchmarking Fly.io vs Render vs Heroku](https://febriliankr.medium.com/benchmarking-fly-io-vs-render-vs-heroku-ccbdb63b488a)
+- [Deploy Golang App to Fly.io with Docker](https://febriliankr.medium.com/deploy-golang-app-to-fly-io-with-docker-ab1b72f029ee)
 - [Inserting Null to PostgreSQL in Golang](https://febriliankr.medium.com/inserting-null-to-postgresql-in-golang-f1ae41cc2b91)
+- [How to Brute Force with Golang](https://febriliankr.medium.com/how-to-brute-force-with-go-golang-277131e8a163)
 - [Stop Getting Paralyzed with CSS, use Tailwind](https://febriliankr.medium.com/stop-getting-paralyzed-with-css-use-tailwind-c6c5aa64d7ee)
 - [How to Create Interactive Charts with Simple HTML](https://febriliankr.medium.com/how-to-create-interactive-charts-with-simple-html-c75f43dbea39)
 - [Python Twitter Data Mining (Indonesian)](https://febriliankr.medium.com/cara-mining-data-di-twitter-dengan-python-dan-ekspor-dalam-csv-b26ccf04d63a)
