@@ -1,10 +1,8 @@
-## Hello there 👋 Febrilian here
+## About
 
 - 🚀 Go & Typescript
-- 🔭 Currently working on [Skala](https://skala.co.id) and [Risetku](https://risetku.com).
-- Open for freelance job contact me through febrilian.kr@gmail.com
-- Resume https://febrilian.com/resume
-- [Kattis University of Indonesia Rank](https://open.kattis.com/universities/ui.ac.id#:~:text=Febrilian%20Kristiawan)
+- Contact me through febrilian.kr@gmail.com
+- https://febrilian.com/resume
 
 ## My Tutorials
 
