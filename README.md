@@ -20,3 +20,6 @@
 
 ![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=febriliankr&hide=javascript,html,scss,css,sass,shell)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=febriliankr&show_icons=true&theme=tokyonight)
+
+## Short Example Code
+- [Makefile for Backing up postgres](https://gist.github.com/febriliankr/7e324675d1f33d22cef5b8cd9e743991)
