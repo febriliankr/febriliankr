@@ -2,7 +2,6 @@
 
 - 🚀 Go & Typescript
 - Contact me through febrilian.kr@gmail.com
-- https://febrilian.com/resume
 
 ## My Tutorials
 
