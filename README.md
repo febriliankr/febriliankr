@@ -1,5 +1,6 @@
 ## About
 
+- Building [Risetku](https://risetku.com)
 - 🚀 Go & Typescript
 - Contact me through febrilian.kr@gmail.com
 
