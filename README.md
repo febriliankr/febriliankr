@@ -14,7 +14,7 @@
 - [How to Create Interactive Charts with Simple HTML](https://febriliankr.medium.com/how-to-create-interactive-charts-with-simple-html-c75f43dbea39)
 - [Python Twitter Data Mining (Indonesian)](https://febriliankr.medium.com/cara-mining-data-di-twitter-dengan-python-dan-ekspor-dalam-csv-b26ccf04d63a)
 - [R Language Twitter Data Mining (Indonesian)](https://febriliankr.medium.com/cara-data-mining-dari-twitter-dengan-r-language-e7fb937da21f)
-- [How to Write (Indonesian)](https://risetku-team.notion.site/risetku-team/Pop-Article-dd0d6fc7a27a49aa899d5511ae620f8b)
+- [How to Write (Indonesian)](https://risetku.notion.site/How-to-Write-dd0d6fc7a27a49aa899d5511ae620f8b)
 
 ## My Stats 💻
 
