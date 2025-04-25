@@ -1,6 +1,6 @@
 ## About
 
-- Building [Risetku](https://risetku.com)
+- Building [Risetku](https://risetku.com) & [dxCalc](https://dxcalc.febrilian.com)
 - 🚀 Go & Typescript
 - Contact me through febrilian.kr@gmail.com
 
