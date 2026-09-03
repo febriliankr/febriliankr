@@ -16,10 +16,5 @@
 - [R Language Twitter Data Mining (Indonesian)](https://febriliankr.medium.com/cara-data-mining-dari-twitter-dengan-r-language-e7fb937da21f)
 - [How to Write (Indonesian)](https://risetku.notion.site/How-to-Write-dd0d6fc7a27a49aa899d5511ae620f8b)
 
-## My Stats 💻
-
-![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=febriliankr&hide=javascript,html,scss,css,sass,shell)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=febriliankr&show_icons=true&theme=tokyonight)
-
 ## Short Example Code
 - [Makefile for Backing up postgres](https://gist.github.com/febriliankr/7e324675d1f33d22cef5b8cd9e743991)
